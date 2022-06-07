@@ -1,0 +1,15 @@
+/Users/almir/Desktop/Лекция 2_С#/Array/obj/Debug/net6.0/Array.csproj.AssemblyReference.cache
+/Users/almir/Desktop/Лекция 2_С#/Array/obj/Debug/net6.0/Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almir/Desktop/Лекция 2_С#/Array/obj/Debug/net6.0/Array.AssemblyInfoInputs.cache
+/Users/almir/Desktop/Лекция 2_С#/Array/obj/Debug/net6.0/Array.AssemblyInfo.cs
+/Users/almir/Desktop/Лекция 2_С#/Array/obj/Debug/net6.0/Array.csproj.CoreCompileInputs.cache
+/Users/almir/Desktop/Лекция 2_С#/Array/bin/Debug/net6.0/Array
+/Users/almir/Desktop/Лекция 2_С#/Array/bin/Debug/net6.0/Array.deps.json
+/Users/almir/Desktop/Лекция 2_С#/Array/bin/Debug/net6.0/Array.runtimeconfig.json
+/Users/almir/Desktop/Лекция 2_С#/Array/bin/Debug/net6.0/Array.dll
+/Users/almir/Desktop/Лекция 2_С#/Array/bin/Debug/net6.0/Array.pdb
+/Users/almir/Desktop/Лекция 2_С#/Array/obj/Debug/net6.0/Array.dll
+/Users/almir/Desktop/Лекция 2_С#/Array/obj/Debug/net6.0/refint/Array.dll
+/Users/almir/Desktop/Лекция 2_С#/Array/obj/Debug/net6.0/Array.pdb
+/Users/almir/Desktop/Лекция 2_С#/Array/obj/Debug/net6.0/Array.genruntimeconfig.cache
+/Users/almir/Desktop/Лекция 2_С#/Array/obj/Debug/net6.0/ref/Array.dll
