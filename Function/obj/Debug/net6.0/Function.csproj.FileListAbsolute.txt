@@ -1,0 +1,15 @@
+/Users/almir/Desktop/Лекция 2_С#/Function/bin/Debug/net6.0/Function
+/Users/almir/Desktop/Лекция 2_С#/Function/bin/Debug/net6.0/Function.deps.json
+/Users/almir/Desktop/Лекция 2_С#/Function/bin/Debug/net6.0/Function.runtimeconfig.json
+/Users/almir/Desktop/Лекция 2_С#/Function/bin/Debug/net6.0/Function.dll
+/Users/almir/Desktop/Лекция 2_С#/Function/bin/Debug/net6.0/Function.pdb
+/Users/almir/Desktop/Лекция 2_С#/Function/obj/Debug/net6.0/Function.csproj.AssemblyReference.cache
+/Users/almir/Desktop/Лекция 2_С#/Function/obj/Debug/net6.0/Function.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almir/Desktop/Лекция 2_С#/Function/obj/Debug/net6.0/Function.AssemblyInfoInputs.cache
+/Users/almir/Desktop/Лекция 2_С#/Function/obj/Debug/net6.0/Function.AssemblyInfo.cs
+/Users/almir/Desktop/Лекция 2_С#/Function/obj/Debug/net6.0/Function.csproj.CoreCompileInputs.cache
+/Users/almir/Desktop/Лекция 2_С#/Function/obj/Debug/net6.0/Function.dll
+/Users/almir/Desktop/Лекция 2_С#/Function/obj/Debug/net6.0/refint/Function.dll
+/Users/almir/Desktop/Лекция 2_С#/Function/obj/Debug/net6.0/Function.pdb
+/Users/almir/Desktop/Лекция 2_С#/Function/obj/Debug/net6.0/Function.genruntimeconfig.cache
+/Users/almir/Desktop/Лекция 2_С#/Function/obj/Debug/net6.0/ref/Function.dll
